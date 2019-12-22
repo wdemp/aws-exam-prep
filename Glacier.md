@@ -2,4 +2,4 @@
 -compliiance requirements like HIPPA, (5-6)
 -PCI compliance data
 -cheapest is the slowest retrieval
--most expensive for fast retrieval
+-Expediated service- most expensive 
