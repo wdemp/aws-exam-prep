@@ -1,0 +1,5 @@
+- storage gateway
+- DMS-Database Migration Services
+- VM import/export
+- Direct Connect
+- AWS VPN
