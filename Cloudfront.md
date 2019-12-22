@@ -1,0 +1,3 @@
+-Edge Locations
+-CDN 
+-Origin-point of origin of where the files are coming from. Usually from EC2 or S3
