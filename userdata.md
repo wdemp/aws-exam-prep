@@ -1,0 +1,6 @@
+- userdata is related to EC2 
+- boostrap EC2
+- provide a script when EC2 launches
+- automate
+- automatically install software when EC2 starts 
+- on third page of EC2 launch console their is a user data box under the advacned section
