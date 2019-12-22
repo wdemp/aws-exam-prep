@@ -1,0 +1,3 @@
+-Non- relational Database
+-No SQL
+-
